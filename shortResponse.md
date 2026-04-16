@@ -34,7 +34,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
-
+The image will be too large for the screen if you use the first rule, while the second rule actually adjusts the image based on your screen size. The first rule uses px, which is a fixed size that will stay the same no matter what. Meanwhile the second rule accounts for how big the screen is and it uses that information to fit the image into 50% of the screen.
 
 
 
