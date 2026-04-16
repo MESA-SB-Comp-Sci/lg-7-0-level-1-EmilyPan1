@@ -7,9 +7,9 @@ Answer each question in 2–3 sentences.
 ## Question 1 — Describe
 
 What is the difference between a static unit like `px` and a responsive unit like `%` or `vh`?
-
+The unit 'px' is a fixed size, meaning it never changes, compared to 'vh' or '%' it will break when using a screen with a different size.
 Describe what makes a unit responsive and why that matters when building a website.
-
+A unit is responsive when they can change size depending on the screen, it matters because usually when you're using a website on your phone, if the unit is 'px' the layout with break because of your screen size.
 
 
 
